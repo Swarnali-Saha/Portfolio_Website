@@ -388,36 +388,19 @@ nav {
   justify-content: center;
 }
 
-/*.portfolio__banner__card p {
-  font-weight: 350; 
-  font-size: 0.9rem;
-  margin: 0;
-  padding-bottom: 0.3rem;
-  text-align: center;
-  transform: color 3s ease;
-}
-
-.portfolio__banner__card p:hover {
-  color: #080808;
-  cursor: pointer;
-}*/
-
-
 .portfolio__banner__card p {
   font-weight: 350;
   font-size: 0.9rem;
   margin: 0;
   padding-bottom: 0.3rem;
   text-align: center;
-  transition: color 0.5s ease; /* Add transition for color change */
+  transition: color 0.5s ease; 
 }
 
 .portfolio__banner__card p:hover {
   color: #080808;
   cursor: pointer;
 }
-
-
 
 .contact__container {
   text-align: center;
