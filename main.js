@@ -64,3 +64,51 @@ ScrollReveal().reveal(".portfolio__card", {
   duration: 1000,
   interval: 500,
 });
+
+// typewritter effect
+const words = ["Developer", "Crafter", "Painter"];
+const typewriterSpan = document.getElementById("typewriter");
+
+let wordIndex = 0;
+let charIndex = 0;
+let isDeleting = false;
+let delay = 120;
+let pauseAfterTyping = 1500;  // pause after full word typed
+let pauseAfterDeleting = 500; // pause after fully deleted
+
+function type() {
+  const currentWord = words[wordIndex];
+
+  if (!isDeleting) {
+    // Typing
+    typewriterSpan.textContent = currentWord.substring(0, charIndex + 1);
+    charIndex++;
+
+    if (charIndex === currentWord.length) {
+      // Word fully typed, pause before deleting
+      delay = pauseAfterTyping;
+      isDeleting = true;
+    } else {
+      // Continue typing quickly
+      delay = 120;
+    }
+  } else {
+    // Deleting
+    typewriterSpan.textContent = currentWord.substring(0, charIndex - 1);
+    charIndex--;
+
+    if (charIndex === 0) {
+      // Word fully deleted, pause before typing next
+      isDeleting = false;
+      wordIndex = (wordIndex + 1) % words.length;
+      delay = pauseAfterDeleting;
+    } else {
+      // Continue deleting quickly
+      delay = 60;
+    }
+  }
+
+  setTimeout(type, delay);
+}
+
+type();
