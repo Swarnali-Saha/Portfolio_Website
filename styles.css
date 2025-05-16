@@ -205,16 +205,23 @@ nav {
   animation: cursor 5s linear infinite;
 }
 
-@keyframes words {
-  0%, 33% {
-    content: "Developer";
-  }
-  34%, 66% {
-    content: "Crafter";
-  }
-  67%, 100% {
-    content: "Painter";
-  }
+#typewriter {
+  font-family: monospace;
+  white-space: nowrap;
+  font-size: 2rem;       
+  line-height: 3rem;      
+  font-weight: bold;
+}
+
+#cursor {
+  display: inline-block;
+  font-family: monospace;
+  animation: blink 0.8s infinite;
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
 }
 
 .header__content .section__description {
