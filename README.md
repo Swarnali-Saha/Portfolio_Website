@@ -1,80 +1,100 @@
-🌐 #Personal Portfolio Website
+# 🌐 Personal Portfolio Website
+
 Welcome to the repository of my personal portfolio website. This site serves as a digital resume and showcase of my academic background, interests, projects, and publications, created to provide potential employers and collaborators a centralized view of my work and contact information.
 
+#
 🎯 __Project Objective__
+
 The main objective of this project is to design and develop a clean, responsive, and informative personal portfolio website that:
 
-Highlights my academic and professional background.
+• Highlights my academic and professional background.
 
-Showcases my key projects and publications.
+• Showcases my key projects and publications.
+    
+• Provides a downloadable version of my CV.
+    
+• Makes it easier for HR professionals and recruiters to connect with me.
 
-Provides a downloadable version of my CV.
+#
+📌 __Project Scope__
 
-Makes it easier for HR professionals and recruiters to connect with me.
-
-📌 Project Scope
 This portfolio website includes the following sections:
 
-About Me: A brief introduction and my personal interests.
+• __About Me:__ A brief introduction and my personal interests.
 
-Education: Details of my top two higher educational qualifications.
+• __Education:__ Details of my top two higher educational qualifications.
 
-Projects: A showcase of my most impactful academic or personal projects.
+• __Projects:__ A showcase of my most impactful academic or personal projects.
 
-Publications: A list of my published work (if applicable).
+• __Publications:__ A list of my published work (if applicable).
 
-Contact Information: Email and other relevant links to get in touch.
+• __Contact Information:__ Email and other relevant links to get in touch.
 
-CV Download: A link for recruiters to easily download my latest CV.
+• __CV Download:__ A link for recruiters to easily download my latest CV.
 
-🛠️ Technologies Used
+#
+🛠️ __Technologies Used__
+
 The website is built using the following technologies:
 
-HTML5 – To structure the content.
+• __HTML:__  To structure the content.
 
-CSS3 – For styling and layout.
+• __CSS3:__ For styling and layout.
 
-JavaScript (basic) – For minor interactivity.
+• __JavaScript (basic):__ For minor interactivity.
 
-🧭 Steps Followed
-Planning & Wireframing: Outlined content layout and user flow.
+#
+🧭 __Steps Followed__
 
-HTML Structure: Created semantic structure for all sections.
+• __Planning & Wireframing:__ Outlined content layout and user flow.
 
-Styling with CSS: Designed a responsive and visually appealing interface.
+• __HTML Structure:__ Created semantic structure for all sections.
 
-JavaScript Enhancements: Added basic interactivity (e.g., toggling sections or smooth scrolling).
+• __Styling with CSS:__ Designed a responsive and visually appealing interface.
 
-Testing & Optimization: Checked responsiveness on various devices.
+• __JavaScript Enhancements:__ Added basic interactivity (e.g., toggling sections or smooth scrolling).
 
-Deployment: Hosted using GitHub Pages.
+• __Testing & Optimization:__ Checked responsiveness on various devices.
 
-❓ Key Questions Addressed
-How can I present my background and qualifications in a clear and compelling way?
+• __Deployment:__ Hosted using GitHub.
 
-How do I provide a user-friendly experience across different devices?
+#
+❓ __Key Questions Addressed__
 
-What structure will help HR professionals quickly access my information and CV?
+• How can I present my background and qualifications in a clear and compelling way?
 
-How can I visually highlight my most important projects and publications?
+• How do I provide a user-friendly experience across different devices?
 
-📈 Summary of Key Insights
-A well-structured personal website increases the chances of being noticed by recruiters.
+• What structure will help HR professionals quickly access my information and CV?
 
-Simplicity and clarity in design help deliver a better user experience.
+• How can I visually highlight my most important projects and publications?
 
-Showcasing real work (projects/publications) alongside qualifications gives a strong impression.
+#
+📈 __Summary of Key Insights__
 
-Including a downloadable CV adds a professional touch and eases the recruitment process.
+• A well-structured personal website increases the chances of being noticed by recruiters.
 
-📫 Contact Me
+• Simplicity and clarity in design help deliver a better user experience.
+
+• Showcasing real work (projects/publications) alongside qualifications gives a strong impression.
+
+• Including a downloadable CV adds a professional touch and eases the recruitment process.
+
+#
+📫 __Contact Me__
+
 Feel free to reach out or connect for collaboration or job opportunities.
 
-Email: [your-email@example.com]
-LinkedIn / Portfolio / GitHub: (Add appropriate links)
+• __Email:__ sswarnali445@gmail.com
 
-📄 CV
-Click here to download my CV
-(Replace with actual CV link after upload)
+• __LinkedIn:__ https://www.linkedin.com/in/swarnali-saha2000/
 
+#
+📄 __CV__
+
+[Click here to download my CV](https://github.com/Swarnali-Saha/Portfolio_Website/blob/main/CV/Swarnali_Saha_CV.pdf)
+
+#
 🚀 This portfolio is a living document of my growth — I plan to update it regularly as I take on new challenges and develop new skills.
+
+![Screenshot of portfolio website](https://github.com/Swarnali-Saha/Portfolio_Website/blob/main/assets/portfoliowebsite.png)
