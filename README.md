@@ -2,7 +2,7 @@
 
 Welcome to the official repository of my personal portfolio website. This website acts as a digital showcase of my academic journey, projects, publications, and career aspirations — designed to provide a one-stop destination for recruiters, collaborators, and tech enthusiasts to learn more about me.
 
----
+
 
 ## 🎯 Objective
 
@@ -13,7 +13,7 @@ To create a clean, responsive, and professional online presence that:
 - Offers easy access to my downloadable CV  
 - Provides clear contact options for recruiters and collaborators  
 
----
+
 
 ## 🗂️ Website Sections
 
@@ -26,7 +26,7 @@ The portfolio is organized into the following key sections:
 - **📬 Contact:** Email and social media links for reaching out  
 - **📄 CV Download:** Direct link to download my latest résumé  
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -37,7 +37,7 @@ The website is built with:
 - **JavaScript (Basic):** Smooth scrolling and light interactivity  
 - **GitHub Pages:** For hosting and deployment  
 
----
+
 
 ## 🚧 Development Workflow
 
@@ -50,7 +50,7 @@ Here’s a snapshot of my development process:
 5. **Cross-Device Testing** – Ensured compatibility across devices  
 6. **Version Control & Deployment** – Managed using GitHub  
 
----
+
 
 ## ❓ Problem Solving Focus
 
@@ -61,7 +61,7 @@ Throughout the design and development of this site, I focused on:
 - ✅ Ensuring recruiters can quickly find my CV and contact info  
 - ✅ Highlighting my work with minimal distraction  
 
----
+
 
 ## 📈 Learnings & Outcomes
 
@@ -70,7 +70,7 @@ Throughout the design and development of this site, I focused on:
 - Highlighting real-world projects helps demonstrate practical skills  
 - A downloadable CV enhances accessibility for hiring professionals  
 
----
+
 
 ## 📫 Contact
 
@@ -79,23 +79,20 @@ Interested in collaborating or connecting?
 - 📧 **Email:** [sswarnali445@gmail.com](mailto:sswarnali445@gmail.com)  
 - 🔗 **LinkedIn:** [linkedin.com/in/swarnali-saha2000](https://www.linkedin.com/in/swarnali-saha2000/)
 
-- 📧 **Email:** <a href="mailto:sswarnali445@gmail.com" target="_blank">sswarnali445@gmail.com</a>  
-- 🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/swarnali-saha2000/" target="_blank">linkedin.com/in/swarnali-saha2000</a>
 
 
----
 
 ## 📄 CV
 
 📝 [Click here to download my CV (PDF)](https://github.com/Swarnali-Saha/Portfolio_Website/blob/main/CV/Swarnali_Saha_CV.pdf)
 
----
+
 
 ## 🌱 A Living Project
 
 This website evolves with my journey — as I take on new projects, develop skills, and grow professionally, the site will reflect these updates.
 
----
+
 
 ## 🖼️ Website Preview
 
