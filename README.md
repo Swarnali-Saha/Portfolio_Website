@@ -1,100 +1,98 @@
-# 🌐 Personal Portfolio Website
+# 🌐 Swarnali Saha — Personal Portfolio Website
 
-Welcome to the repository of my personal portfolio website. This site serves as a digital resume and showcase of my academic background, interests, projects, and publications, created to provide potential employers and collaborators a centralized view of my work and contact information.
+Welcome to the official repository of my personal portfolio website. This website acts as a digital showcase of my academic journey, projects, publications, and career aspirations — designed to provide a one-stop destination for recruiters, collaborators, and tech enthusiasts to learn more about me.
 
-#
-🎯 __Project Objective__
+---
 
-The main objective of this project is to design and develop a clean, responsive, and informative personal portfolio website that:
+## 🎯 Objective
 
-- Highlights my academic and professional background.
+To create a clean, responsive, and professional online presence that:
 
-- Showcases my key projects and publications.
-    
-- Provides a downloadable version of my CV.
-    
-- Makes it easier for HR professionals and recruiters to connect with me.
+- Highlights my academic and professional background  
+- Showcases selected impactful projects and publications  
+- Offers easy access to my downloadable CV  
+- Provides clear contact options for recruiters and collaborators  
 
-#
-📌 __Project Scope__
+---
 
-This portfolio website includes the following sections:
+## 🗂️ Website Sections
 
-- __About Me:__ A brief introduction and my personal interests.
+The portfolio is organized into the following key sections:
 
-- __Education:__ Details of my top two higher educational qualifications.
+- **👩‍💼 About Me:** A brief intro and personal interests  
+- **🎓 Education:** Overview of my academic background  
+- **💻 Projects:** Highlighted technical or academic projects  
+- **📚 Publications:** List of published works (if applicable)  
+- **📬 Contact:** Email and social media links for reaching out  
+- **📄 CV Download:** Direct link to download my latest résumé  
 
-- __Projects:__ A showcase of my most impactful academic or personal projects.
+---
 
-- __Publications:__ A list of my published work (if applicable).
+## 🛠️ Tech Stack
 
-- __Contact Information:__ Email and other relevant links to get in touch.
+The website is built with:
 
-- __CV Download:__ A link for recruiters to easily download my latest CV.
+- **HTML5:** Semantic content structure  
+- **CSS3:** Responsive styling and layout  
+- **JavaScript (Basic):** Smooth scrolling and light interactivity  
+- **GitHub Pages:** For hosting and deployment  
 
-#
-🛠️ __Technologies Used__
+---
 
-The website is built using the following technologies:
+## 🚧 Development Workflow
 
-- __HTML:__  To structure the content.
+Here’s a snapshot of my development process:
 
-- __CSS3:__ For styling and layout.
+1. **Planning & Wireframing** – Content architecture and flow  
+2. **HTML Structure** – Clean, semantic layout  
+3. **CSS Styling** – Responsive and accessible design  
+4. **JavaScript Enhancements** – Smooth scrolling, UI interactions  
+5. **Cross-Device Testing** – Ensured compatibility across devices  
+6. **Version Control & Deployment** – Managed using GitHub  
 
-- __JavaScript (basic):__ For minor interactivity.
+---
 
-#
-🧭 __Steps Followed__
+## ❓ Problem Solving Focus
 
-- __Planning & Wireframing:__ Outlined content layout and user flow.
+Throughout the design and development of this site, I focused on:
 
-- __HTML Structure:__ Created semantic structure for all sections.
+- ✅ How to present my qualifications in a concise and engaging way  
+- ✅ Making the site fully responsive and user-friendly  
+- ✅ Ensuring recruiters can quickly find my CV and contact info  
+- ✅ Highlighting my work with minimal distraction  
 
-- __Styling with CSS:__ Designed a responsive and visually appealing interface.
+---
 
-- __JavaScript Enhancements:__ Added basic interactivity (e.g., toggling sections or smooth scrolling).
+## 📈 Learnings & Outcomes
 
-- __Testing & Optimization:__ Checked responsiveness on various devices.
+- A clear and structured portfolio increases visibility and credibility  
+- Visual hierarchy and minimalist design improve engagement  
+- Highlighting real-world projects helps demonstrate practical skills  
+- A downloadable CV enhances accessibility for hiring professionals  
 
-- __Deployment:__ Hosted using GitHub.
+---
 
-#
-❓ __Key Questions Addressed__
+## 📫 Contact
 
-- How can I present my background and qualifications in a clear and compelling way?
+Interested in collaborating or connecting?
 
-- How do I provide a user-friendly experience across different devices?
+- 📧 **Email:** [sswarnali445@gmail.com](mailto:sswarnali445@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/swarnali-saha2000](https://www.linkedin.com/in/swarnali-saha2000/)  
 
-- What structure will help HR professionals quickly access my information and CV?
+---
 
-- How can I visually highlight my most important projects and publications?
+## 📄 CV
 
-#
-📈 __Summary of Key Insights__
+📝 [Click here to download my CV (PDF)](https://github.com/Swarnali-Saha/Portfolio_Website/blob/main/CV/Swarnali_Saha_CV.pdf)
 
-- A well-structured personal website increases the chances of being noticed by recruiters.
+---
 
-- Simplicity and clarity in design help deliver a better user experience.
+## 🌱 A Living Project
 
-- Showcasing real work (projects/publications) alongside qualifications gives a strong impression.
+This website evolves with my journey — as I take on new projects, develop skills, and grow professionally, the site will reflect these updates.
 
-- Including a downloadable CV adds a professional touch and eases the recruitment process.
+---
 
-#
-📫 __Contact Me__
-
-Feel free to reach out or connect for collaboration or job opportunities.
-
-- __Email:__ sswarnali445@gmail.com
-
-- __LinkedIn:__ https://www.linkedin.com/in/swarnali-saha2000/
-
-#
-📄 __CV__
-
-[Click here to download my CV](https://github.com/Swarnali-Saha/Portfolio_Website/blob/main/CV/Swarnali_Saha_CV.pdf)
-
-#
-🚀 This portfolio is a living document of my growth — I plan to update it regularly as I take on new challenges and develop new skills.
+## 🖼️ Website Preview
 
 ![Screenshot of portfolio website](https://github.com/Swarnali-Saha/Portfolio_Website/blob/main/assets/portfoliowebsite.png)
