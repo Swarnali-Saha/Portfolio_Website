@@ -77,7 +77,11 @@ Throughout the design and development of this site, I focused on:
 Interested in collaborating or connecting?
 
 - 📧 **Email:** [sswarnali445@gmail.com](mailto:sswarnali445@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/swarnali-saha2000](https://www.linkedin.com/in/swarnali-saha2000/)  
+- 🔗 **LinkedIn:** [linkedin.com/in/swarnali-saha2000](https://www.linkedin.com/in/swarnali-saha2000/)
+
+- 📧 **Email:** <a href="mailto:sswarnali445@gmail.com" target="_blank">sswarnali445@gmail.com</a>  
+- 🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/swarnali-saha2000/" target="_blank">linkedin.com/in/swarnali-saha2000</a>
+
 
 ---
 
